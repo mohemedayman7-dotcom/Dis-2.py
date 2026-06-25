@@ -189,4 +189,4 @@ async def help_bot(ctx):
 
 
 # ── Run ─────────────────────────────────────────────────────────
-bot.run("MTUxOTY4NzE3NTU2NDY4OTQ5OQ.Gi5uA7.1XYz6yDDZSjMm_XlIrgftmYGEQygt3FR5Wz2UY")
+bot.run("TOKEN_HERE")
